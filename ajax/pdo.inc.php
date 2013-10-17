@@ -7,12 +7,12 @@
 		define("USER","root");
 		define("PASSWORD","");
 	}
-	else if ($_SERVER["HTTP_HOST"] == "ns366377.ovh.net") {
+	else if ($_SERVER["HTTP_HOST"] == "xxxxx") {
 		// Config Serveur MySQL pour OVH/EEMI
 		define("HOST","localhost");
-		define("DATABASE","coursdev");
-		define("USER","coursdev");
-		define("PASSWORD","deveemi");
+		define("DATABASE","dbdbdb");
+		define("USER","ususus");
+		define("PASSWORD","dedede");
 	}
 
 	// Options de connexion
