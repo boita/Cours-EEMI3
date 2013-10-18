@@ -1,4 +1,5 @@
 <?php
+	// Test user toto
 	session_start();
 
 	echo "<pre>";
